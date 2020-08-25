@@ -11,11 +11,11 @@ I'm also planning to create an API that gives you "Anime-Girl" responses (Just a
 
 ### 👯 Working with me
 
-If you need assistance in any Project involving Minecraft or Discord, feel free to contact me, and I'll help you if I like your Project, providing I have time of course.
+If you need assistance in any Project involving Minecraft, Elite:Dangerous Data Collection or Discord, feel free to contact me, and I'll help you if I like your Project, providing I have time of course.
 
 ### 📫 Contacting
 
-If you want to get in touch with me (for whatever reason) just shoot me an [E-Mail](mailto:tobiasrempe@zyonicsoftware.com).
+If you want to get in touch with me (for whatever reason) just shoot me an [E-Mail](mailto:tobiasrempe@zyonicsoftware.com) or contact me on Discord (AzraAnimating#3851).
 
 ### ⚡ Fun Links
 
