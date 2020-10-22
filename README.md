@@ -7,7 +7,7 @@ I'm a German High School (Gymnasium) Student & Freelance Developer and I'm curre
 If you are wondering why my Personal Account here is so empty, I mostly work on Projects that are Privated or ones that are Zyonic Projects. I only post the accasional "fun" thing over here, or some Librarys I designed.
 
 I'm currently working on a few Discord-Bots like Herukan (which is based on my [Maddox](https://github.com/zyonic-software/maddox-v2/) framework) and some Minecraft stuff.
-I'm also planning to create an API that gives you "Anime-Girl" responses (Just an Algorithm). (If anyone who likes Anime wants to provide some Responses, feel free to hit me up!)
+(If anyone who likes Anime wants to provide some Responses, feel free to hit me up!)
 
 ### 👯 Working with me
 
