@@ -27,8 +27,7 @@ If you want to get in touch with me (for whatever reason) just shoot me an [E-Ma
 
 <img align="left" alt="Some Stats about Me" src="https://github-readme-stats.vercel.app/api?username=AzraAnimating&show_icons=true&hide_border=true&count_private=true" />       
 
-<figure><embed src="https://wakatime.com/share/@AzraAnimating/1c7c7203-7920-42e8-bf58-870a96b7d551.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AzraAnimating/1bf08418-1903-477e-af3f-459c2703ce57.png" /></a>
 <!--
 **AzraAnimating/AzraAnimating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
