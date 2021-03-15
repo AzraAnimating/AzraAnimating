@@ -14,7 +14,7 @@ If you need assistance in any Project involving Minecraft, Elite:Dangerous Data 
 
 ### 📫 Contacting
 
-If you want to get in touch with me (for whatever reason) just shoot me an [E-Mail](mailto:tobiasrempe@zyonicsoftware.com) or contact me on Discord (AzraAnimating#3851).
+If you want to get in touch with me (for whatever reason) contact me on Discord (AzraAnimating#3851).
 
 ### ⚡ Fun Links
 
