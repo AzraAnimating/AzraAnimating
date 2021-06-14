@@ -2,7 +2,7 @@
 
 ### About Me:
 
-I'm a German High School (Gymnasium) Student & Freelance Developer and I'm currently building a Company ([Zyonic Software](https://github.com/zyonic-software/)) with a couple of friends.
+I'm a German High School (Gymnasium) Graduate & Freelance Developer and I'm currently building a Company ([Zyonic Software](https://gitlab.zyonicsoftware.com/)) with a couple of friends.
 
 If you are wondering why my Personal Account here is so empty, I mostly work on Projects that are Privated or ones that are Zyonic Projects. I only post the accasional "fun" thing over here, or some Librarys I designed.
 
@@ -19,7 +19,7 @@ If you want to get in touch with me (for whatever reason) contact me on Discord 
 ### ⚡ Fun Links
 
 - [Zyonic Software](https://zyonicsoftware.com/)
-  - [MineReaper Development](https://minereaper.de/)
+  - [MineReaper Productions](https://minereaper.de/)
   - [SV-Studios](https://sv-studios.net/)
   - [Herukan](https://herukan.xyz/)
 - [Twitter](https://twitter.com/azraanimating/)
