@@ -5,7 +5,7 @@
 I'm a German Student & Freelance Developer and I'm currently building a Company ([Zyonic Software](https://gitlab.zyonicsoftware.com/)) with a couple of friends.
 Currently I'm studying Applied Computer Science at the Ruhr Universität Bochum in Germany.
 
-If you are wondering why my Personal Account here is so empty, I mostly work on Projects that are Privated or ones that are Zyonic Projects. I only post the accasional "fun" thing over here, or some Librarys I designed.
+If you are wondering why my Personal Account here is so empty, I mostly work on Projects that are Privated or ones that are Zyonic Projects. I only post the accasional "fun" thing over here, or some OSS Projects I'm working on.
 
 I'm currently working on many Projects. Many of those are sadly Closed-Source, but I like to share whatever I can over here.
 If you want to check out some of my personal Work you can look at my [Uni's Gitlab](https://gitlab.rub.de/tobi) or [Zyonic's Gitlab](https://gitlab.zyonicsoftware.com/azraanimating)
